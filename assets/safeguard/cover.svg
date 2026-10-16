@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 360" role="img" aria-label="Safe-Guard.gg project artwork">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0d111a"/>
+      <stop offset="1" stop-color="#1d3556"/>
+    </linearGradient>
+    <linearGradient id="shield" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#a9d0ff"/>
+      <stop offset="1" stop-color="#356fb6"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="360" fill="url(#bg)"/>
+  <path d="M0 290 150 200l110 48 130-98 115 65 150-106 145 84v167H0z" fill="#fff" opacity=".05"/>
+  <path d="M400 62 526 108v91c0 77-49 117-126 145-77-28-126-68-126-145v-91z" fill="url(#shield)" opacity=".88"/>
+  <path d="m400 102 86 31v66c0 51-31 78-86 101-55-23-86-50-86-101v-66z" fill="#0e1726" opacity=".82"/>
+  <path d="m358 193 29 29 61-70" fill="none" stroke="#a9d0ff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="38" y="52" fill="#fff" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="4">SAFE-GUARD.GG</text>
+  <text x="40" y="326" fill="#c1d9f5" opacity=".75" font-family="monospace" font-size="12" letter-spacing="2">MODERATION · TRUST · SECURITY</text>
+</svg>
